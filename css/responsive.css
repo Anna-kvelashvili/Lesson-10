@@ -1,0 +1,18 @@
+@media (max-width:744px) {
+  .flex-header {
+    column-gap: 87.5px;
+  }
+}
+@media (max-width:375px){
+    .burger.bar {display: block;}
+    
+}
+
+
+
+
+
+
+
+
+/* black section */
